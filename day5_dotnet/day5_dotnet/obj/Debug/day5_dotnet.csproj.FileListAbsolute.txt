@@ -1,0 +1,7 @@
+D:\training_class_data\day5_dotnet\day5_dotnet\bin\Debug\day5_dotnet.exe.config
+D:\training_class_data\day5_dotnet\day5_dotnet\bin\Debug\day5_dotnet.exe
+D:\training_class_data\day5_dotnet\day5_dotnet\bin\Debug\day5_dotnet.pdb
+D:\training_class_data\day5_dotnet\day5_dotnet\obj\Debug\day5_dotnet.csproj.AssemblyReference.cache
+D:\training_class_data\day5_dotnet\day5_dotnet\obj\Debug\day5_dotnet.csproj.CoreCompileInputs.cache
+D:\training_class_data\day5_dotnet\day5_dotnet\obj\Debug\day5_dotnet.exe
+D:\training_class_data\day5_dotnet\day5_dotnet\obj\Debug\day5_dotnet.pdb

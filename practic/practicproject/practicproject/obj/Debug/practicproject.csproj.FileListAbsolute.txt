@@ -1,0 +1,7 @@
+D:\Trainning_matarial\Csharp\practic\practicproject\practicproject\bin\Debug\practicproject.exe.config
+D:\Trainning_matarial\Csharp\practic\practicproject\practicproject\bin\Debug\practicproject.exe
+D:\Trainning_matarial\Csharp\practic\practicproject\practicproject\bin\Debug\practicproject.pdb
+D:\Trainning_matarial\Csharp\practic\practicproject\practicproject\obj\Debug\practicproject.csproj.AssemblyReference.cache
+D:\Trainning_matarial\Csharp\practic\practicproject\practicproject\obj\Debug\practicproject.csproj.CoreCompileInputs.cache
+D:\Trainning_matarial\Csharp\practic\practicproject\practicproject\obj\Debug\practicproject.exe
+D:\Trainning_matarial\Csharp\practic\practicproject\practicproject\obj\Debug\practicproject.pdb
