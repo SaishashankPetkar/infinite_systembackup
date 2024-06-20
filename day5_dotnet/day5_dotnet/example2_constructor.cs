@@ -30,6 +30,7 @@ namespace day5_dotnet
             //parent p = new parent();
             child c = new child(5,"sai");
             Console.Read();
+
         }
     }
 }
